@@ -51,7 +51,7 @@ table tr td:last-child {
 
 button{
 	align-self: center; 
-	background-color: sky;
+	background-color: gray;
   color: black;
   border: 2px solid #4CAF50;
   border: none;
